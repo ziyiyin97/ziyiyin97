@@ -1,10 +1,9 @@
 ## Hi there 👋 
 
 * 😄 My name is **Ziyi Yin** (**尹梓屹** in Chinese) and people usually call me **Francis**.
-* 🏫 I am a PhD candidate in [School of Computational Science and Engineering](https://cse.gatech.edu) of [College of Computing](https://www.cc.gatech.edu/) at [Georgia Institute of Technology](https://www.gatech.edu/). 
-* 🔭 I work in [Seismic Laboratory for Imaging and Modeling](https://slim.gatech.edu/) group on **scientific machine learning techniques for solving geophysical inverse problems**.
+* 🏫 I am a research geophysicist at [Oxy](https://www.oxy.com/), working on generative AI and SciML solutions for seismic imaging and inversion. 
 * 💬 I am generally interested in deep learning, large-scale inverse problems, uncertainty quantification, Bayesian inference, computational imaging, and PDE-constrained optimization.
-* 📩 Email: ziyi.yin@gatech.edu
+* 📩 Email: ziyiyin97@outlook.com
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ziyiyin97&show_icons=true&count_private=true&hide=stars)
