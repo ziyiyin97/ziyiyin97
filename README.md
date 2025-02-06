@@ -1,8 +1,8 @@
 ## Hi there 👋 
 
 * 😄 My name is **Ziyi Yin** (**尹梓屹** in Chinese) and people usually call me **Francis**.
-* 🏫 I am a research geophysicist at [Oxy](https://www.oxy.com/), working on generative AI and SciML solutions for seismic imaging and inversion. 
-* 💬 I am generally interested in deep learning, large-scale inverse problems, uncertainty quantification, Bayesian inference, computational imaging, and PDE-constrained optimization.
+* 🏫 I am a Founding Member of Technical Staff at [KronosAI](https://kronosai.co/), focusing on building foundation models for physics simulations.
+* 💬 I am generally interested in scientific machine learning, simulation-based inference, large-scale inverse problems, uncertainty quantification, and computational imaging.
 * 📩 Email: ziyiyin97@outlook.com
 
 
